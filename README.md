@@ -1,6 +1,6 @@
 # s3hunter
-This repository contains the s3hunter.sh script, a command-line tool designed to assist security professionals and ethical hackers in identifying publicly accessible Amazon S3 buckets. it bruteforce the s3bucket with different regions and extracts the public Bucket data.
-
+ This command-line tool assists security professionals, Penetration Tester, and BugBounty Hunter  in identifying publicly accessible Amazon S3 buckets. It automates the information-gathering step When you are testing for the Cloud (AWS).
+ 
 # installation
 permit to install.sh file : chmod +x install.sh s3hunter.sh then execute the file ./install.sh file it will start the installation process.
 
